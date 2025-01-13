@@ -1,4 +1,4 @@
-# java17-quickstart archetype
+# Archetype for java17 (quickstart)
 
 Building the archetype:
 ```
