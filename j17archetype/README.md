@@ -5,7 +5,7 @@ Building the archetype:
 
 Usage:
   mvn archetype:generate \
-    -DarchetypeGroupId=com.kaczurba \
+    -DarchetypeGroupId=com.witoldkaczurba \
     -DarchetypeArtifactId=j17-quickstart \
   -DarchetypeVersion=1.1-SNAPSHOT \
   -DgroupId=com.project \
